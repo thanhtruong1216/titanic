@@ -1,0 +1,5 @@
+name: titanic
+channels:
+- defaults
+prefix: /Users/thanhthanh/anaconda/envs/titanic
+
